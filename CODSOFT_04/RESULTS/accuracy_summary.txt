@@ -1,0 +1,12 @@
+MultinomialNB: 0.9668
+LogisticRegression: 0.9525
+LinearSVC: 0.9785
+MultinomialNB: 0.9668
+LogisticRegression: 0.9525
+LinearSVC: 0.9785
+MultinomialNB: 0.9668
+LogisticRegression: 0.9525
+LinearSVC: 0.9785
+MultinomialNB: 0.9668
+LogisticRegression: 0.9525
+LinearSVC: 0.9785

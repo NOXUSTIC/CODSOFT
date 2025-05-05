@@ -1,0 +1,88 @@
+2025-04-08 19:09:16,332 - INFO - Loaded 54214 training samples and 54200 test samples
+2025-04-08 19:10:36,071 - INFO - Completed text cleaning
+2025-04-08 20:09:36,449 - INFO - SVC Training Accuracy: 0.7268
+2025-04-08 20:09:36,451 - INFO - SVC Validation Accuracy: 0.5856
+2025-04-08 20:09:37,085 - INFO - MultinomialNB Training Accuracy: 0.5370
+2025-04-08 20:09:37,085 - INFO - MultinomialNB Validation Accuracy: 0.5094
+2025-04-08 20:09:40,758 - INFO - LogisticRegression Training Accuracy: 0.6445
+2025-04-08 20:09:40,759 - INFO - LogisticRegression Validation Accuracy: 0.5765
+2025-04-08 20:09:44,033 - INFO - Predictions saved to: c:\Users\User\Desktop\CODSOFT\TASK1\RESULT\test_predictions.csv
+2025-04-08 21:43:30,358 - INFO - Loaded 54214 training samples and 54200 test samples
+2025-04-08 21:44:49,913 - INFO - Completed text cleaning
+2025-04-08 22:45:51,970 - INFO - SVC Training Accuracy: 0.7268
+2025-04-08 22:45:51,976 - INFO - SVC Validation Accuracy: 0.5856
+2025-04-08 22:45:52,150 - INFO - MultinomialNB Training Accuracy: 0.5370
+2025-04-08 22:45:52,150 - INFO - MultinomialNB Validation Accuracy: 0.5094
+2025-04-08 22:45:55,129 - INFO - LogisticRegression Training Accuracy: 0.6445
+2025-04-08 22:45:55,129 - INFO - LogisticRegression Validation Accuracy: 0.5765
+2025-04-08 22:45:56,959 - INFO - Predictions saved to: c:\Users\User\Desktop\CODSOFT\TASK1\RESULT\test_predictions.csv
+2025-04-08 22:58:18,615 - INFO - Predictions saved to: c:\Users\User\Desktop\CODSOFT\TASK1\RESULT\test_predictions.csv
+2025-04-10 03:31:39,406 - INFO - Loaded 54214 training samples and 54200 test samples
+2025-04-10 03:32:59,499 - INFO - Completed text cleaning
+2025-04-10 04:34:07,828 - INFO - SVC Training Accuracy: 0.7268
+2025-04-10 04:34:07,828 - INFO - SVC Validation Accuracy: 0.5856
+2025-04-10 04:34:07,988 - INFO - MultinomialNB Training Accuracy: 0.5370
+2025-04-10 04:34:07,988 - INFO - MultinomialNB Validation Accuracy: 0.5094
+2025-04-10 04:34:10,901 - INFO - LogisticRegression Training Accuracy: 0.6445
+2025-04-10 04:34:10,901 - INFO - LogisticRegression Validation Accuracy: 0.5765
+2025-04-10 04:42:12,914 - INFO - RandomForest Training Accuracy: 0.9996
+2025-04-10 04:42:12,914 - INFO - RandomForest Validation Accuracy: 0.5158
+2025-04-10 14:02:56,379 - INFO - Loaded 54214 training samples and 54200 test samples
+2025-04-10 14:04:18,176 - INFO - Completed text cleaning
+2025-04-10 15:07:08,247 - INFO - SVC Training Accuracy: 0.7268
+2025-04-10 15:07:08,248 - INFO - SVC Validation Accuracy: 0.5856
+2025-04-10 15:07:08,421 - INFO - MultinomialNB Training Accuracy: 0.5370
+2025-04-10 15:07:08,421 - INFO - MultinomialNB Validation Accuracy: 0.5094
+2025-04-10 15:07:11,311 - INFO - LogisticRegression Training Accuracy: 0.6445
+2025-04-10 15:07:11,312 - INFO - LogisticRegression Validation Accuracy: 0.5765
+2025-04-10 15:15:02,689 - INFO - RandomForest Training Accuracy: 0.9996
+2025-04-10 15:15:02,689 - INFO - RandomForest Validation Accuracy: 0.5160
+2025-04-10 15:15:27,373 - INFO - Predictions saved to: c:\Users\User\Desktop\CODSOFT\TASK1\RESULT\test_predictions.csv
+2025-04-10 15:30:38,729 - INFO - Loaded 54214 training samples and 54200 test samples
+2025-04-10 15:31:58,620 - INFO - Completed text cleaning
+2025-04-10 16:31:24,896 - INFO - SVC Training Accuracy: 0.7268
+2025-04-10 16:31:24,896 - INFO - SVC Validation Accuracy: 0.5856
+2025-04-10 16:31:25,051 - INFO - MultinomialNB Training Accuracy: 0.5370
+2025-04-10 16:31:25,051 - INFO - MultinomialNB Validation Accuracy: 0.5094
+2025-04-10 16:31:27,941 - INFO - LogisticRegression Training Accuracy: 0.6445
+2025-04-10 16:31:27,941 - INFO - LogisticRegression Validation Accuracy: 0.5765
+2025-04-10 16:39:27,682 - INFO - RandomForest Training Accuracy: 0.9996
+2025-04-10 16:39:27,682 - INFO - RandomForest Validation Accuracy: 0.5205
+2025-04-10 18:55:26,560 - INFO - Predictions saved to: c:\Users\User\Desktop\CODSOFT\TASK1\RESULT\test_predictions.csv
+2025-04-10 19:13:11,733 - INFO - Loaded 54214 training samples and 54200 test samples
+2025-04-10 19:13:28,756 - INFO - Loaded 54214 training samples and 54200 test samples
+2025-04-10 19:17:04,213 - INFO - Completed text cleaning
+2025-04-10 19:17:07,200 - INFO - Loaded 54214 training samples and 54200 test samples
+2025-04-10 19:19:22,055 - INFO - Loaded 54214 training samples and 54200 test samples
+2025-04-10 19:20:52,069 - INFO - Completed text cleaning
+2025-04-10 20:29:28,016 - INFO - SVC Training Accuracy: 0.7268
+2025-04-10 20:29:30,061 - INFO - SVC Validation Accuracy: 0.5856
+2025-04-10 20:29:34,358 - INFO - MultinomialNB Training Accuracy: 0.5370
+2025-04-10 20:29:34,358 - INFO - MultinomialNB Validation Accuracy: 0.5094
+2025-04-10 20:29:43,913 - INFO - LogisticRegression Training Accuracy: 0.6445
+2025-04-10 20:29:43,913 - INFO - LogisticRegression Validation Accuracy: 0.5765
+2025-04-10 20:42:48,238 - INFO - RandomForest Training Accuracy: 0.9996
+2025-04-10 20:42:48,238 - INFO - RandomForest Validation Accuracy: 0.5181
+2025-04-10 20:56:29,937 - INFO - Predictions saved to: c:\Users\User\Desktop\CODSOFT\TASK1\RESULT\test_predictions.csv
+2025-04-22 19:21:34,905 - INFO - Loaded 54214 training samples and 54200 test samples
+2025-04-22 19:22:54,231 - INFO - Completed text cleaning
+2025-04-22 20:21:03,110 - INFO - SVC Training Accuracy: 0.7268
+2025-04-22 20:21:03,111 - INFO - SVC Validation Accuracy: 0.5856
+2025-04-22 20:21:03,270 - INFO - MultinomialNB Training Accuracy: 0.5370
+2025-04-22 20:21:03,271 - INFO - MultinomialNB Validation Accuracy: 0.5094
+2025-04-22 20:21:06,052 - INFO - LogisticRegression Training Accuracy: 0.6445
+2025-04-22 20:21:06,053 - INFO - LogisticRegression Validation Accuracy: 0.5765
+2025-04-22 20:29:05,503 - INFO - RandomForest Training Accuracy: 0.9996
+2025-04-22 20:29:05,503 - INFO - RandomForest Validation Accuracy: 0.5153
+2025-04-22 20:39:03,733 - INFO - Predictions saved to: c:\Users\User\Desktop\CODSOFT\CODSOFT_01\RESULT\test_predictions.csv
+2025-05-01 17:11:44,405 - INFO - Loaded 54214 training samples and 54200 test samples
+2025-05-01 17:13:04,490 - INFO - Completed text cleaning
+2025-05-01 18:13:16,714 - INFO - SVC Training Accuracy: 0.7268
+2025-05-01 18:13:16,716 - INFO - SVC Validation Accuracy: 0.5856
+2025-05-01 18:13:16,907 - INFO - MultinomialNB Training Accuracy: 0.5370
+2025-05-01 18:13:16,907 - INFO - MultinomialNB Validation Accuracy: 0.5094
+2025-05-01 18:13:19,822 - INFO - LogisticRegression Training Accuracy: 0.6445
+2025-05-01 18:13:19,823 - INFO - LogisticRegression Validation Accuracy: 0.5765
+2025-05-01 18:21:18,578 - INFO - RandomForest Training Accuracy: 0.9996
+2025-05-01 18:21:18,578 - INFO - RandomForest Validation Accuracy: 0.5142
+2025-05-01 18:31:12,738 - INFO - Predictions saved to: c:\Users\User\Desktop\CODSOFT\CODSOFT_01\RESULT\test_predictions.csv
