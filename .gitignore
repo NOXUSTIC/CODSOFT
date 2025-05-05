@@ -1,0 +1,11 @@
+# Ignore large dataset files and model files exceeding GitHub limits
+CODSOFT_02/Fraud Test Dataset/fraudTest.csv
+CODSOFT_02/Fraud Test Dataset/fraudTrain.csv
+CODSOFT_02/RESULTS/random_forest_model.pkl
+CODSOFT_02/CODSOFT_02/RESULTS/random_forest_model.pkl
+
+# Ignore other common unwanted files
+*.log
+*.csv
+*.png
+*.pkl
