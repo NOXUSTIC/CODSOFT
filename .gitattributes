@@ -1,0 +1,4 @@
+CODSOFT_02/RESULTS/random_forest_model.pkl filter=lfs diff=lfs merge=lfs -text
+CODSOFT_02/CODSOFT_02/RESULTS/random_forest_model.pkl filter=lfs diff=lfs merge=lfs -text
+CODSOFT_02/Fraud[[:space:]]Test[[:space:]]Dataset/fraudTest.csv filter=lfs diff=lfs merge=lfs -text
+CODSOFT_02/Fraud[[:space:]]Test[[:space:]]Dataset/fraudTrain.csv filter=lfs diff=lfs merge=lfs -text
